@@ -34,7 +34,7 @@ if(isset($_POST["tambah"]) ) {
       gap: 1rem;
     }
   </style>
-  <body style="background: url(../../assets/bg.jpg) center / cover fixed; ">  
+  <body style="background: url(../../assets/poto-jenal.jpg) center / cover fixed; ">  
 
 
     <div class="container p-1 mt-1">

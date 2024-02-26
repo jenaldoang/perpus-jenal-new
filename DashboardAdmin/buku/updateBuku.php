@@ -36,11 +36,11 @@ if(isset($_POST["update"]) ) {
      <script src="https://kit.fontawesome.com/de8de52639.js" crossorigin="anonymous"></script>
      <title>Edit data buku || Admin</title>
   </head>
-  <body style="background: url(../../assets/bg.jpg) center / cover fixed; ">
+  <body style="background: url(../../assets/poto-jenal.jpg) center / cover fixed; ">
     <nav class="navbar fixed-top navbar-expand-lg ">
-  <div class="container-fluid" style="background: black;">
+  <div class="container-fluid bg-danger">
     <a class="navbar-brand" href="#">
-      <img src="../../assets/logoNav.png" alt="logo" width="220px">
+      <img src="../../assets/logoNav.png" alt="logo" width="150px">
         </a>
     </a>
     <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">

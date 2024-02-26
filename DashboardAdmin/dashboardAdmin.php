@@ -26,12 +26,12 @@ if (isset($_SESSION['role'])) {
      <link rel="icon" href="../assets/logoh.png" type="image/png">
      <title>Admin Dashboard</title>
   </head>
-  <body  style="background: url(../assets/bg.jpg) center / cover fixed; ">
+  <body  style="background: url(../assets/poto-jenal.jpg) center / cover fixed; ">
     
     <nav class="navbar fixed-top ">
-      <div class="container-fluid bg-primary">
+      <div class="container-fluid bg-danger">
         <a class="navbar-brand" href="#">
-          <img src="../assets/logoNav.png" alt="logo" width="220px">
+          <img src="../assets/logoNav.png" alt="logo" width="150px">
         </a>
   
         <div class="dropdown">

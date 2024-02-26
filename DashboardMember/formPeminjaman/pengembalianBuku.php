@@ -38,7 +38,7 @@ if(isset($_POST["kembalikan"]) ) {
      <title>Form Pengembalian Buku || Member</title>
      <link rel="icon" href="../../assets/logoh.png" type="image/png">
   </head>
-  <body style="background: url(../../assets/bg.jpg);">
+  <body style="background: url(../../assets/poto-jenal.jpg);">
 
     
     <div class="p-1 mt-1">

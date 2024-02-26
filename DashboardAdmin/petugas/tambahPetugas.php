@@ -22,7 +22,7 @@ if (isset($_POST["tombol"])) {
      <link rel="icon" href="../../assets/logoh.png" type="image/png">
      <title>Update || petugas</title>
     </head>
-  <body style="background: url(../../assets/bg.jpg) center / cover fixed;">
+  <body style="background: url(../../assets/poto-jenal.jpg) center / cover fixed;">
   <div class="container">
     <div class="card p-2 mt-5">
       <h1 class="pt-5 text-center fw-bold">Tambah Petugas</h1>
